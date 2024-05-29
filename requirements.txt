@@ -1,4 +1,11 @@
 numpy
 seaborn
 pandas
--e. # we use this so as to give indication that setup.py is there and setup needs to be built as egg file.
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e.
+
+
+# we use this so as to give indication that setup.py is there and setup needs to be built as egg file.
